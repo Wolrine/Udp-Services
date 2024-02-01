@@ -1,0 +1,14 @@
+D:\Work Space\C#\source\repos\UdpServices\UDPServerApp\bin\Debug\net8.0\UDPServerApp.exe
+D:\Work Space\C#\source\repos\UdpServices\UDPServerApp\bin\Debug\net8.0\UDPServerApp.deps.json
+D:\Work Space\C#\source\repos\UdpServices\UDPServerApp\bin\Debug\net8.0\UDPServerApp.runtimeconfig.json
+D:\Work Space\C#\source\repos\UdpServices\UDPServerApp\bin\Debug\net8.0\UDPServerApp.dll
+D:\Work Space\C#\source\repos\UdpServices\UDPServerApp\bin\Debug\net8.0\UDPServerApp.pdb
+D:\Work Space\C#\source\repos\UdpServices\UDPServerApp\obj\Debug\net8.0\UDPServerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work Space\C#\source\repos\UdpServices\UDPServerApp\obj\Debug\net8.0\UDPServerApp.AssemblyInfoInputs.cache
+D:\Work Space\C#\source\repos\UdpServices\UDPServerApp\obj\Debug\net8.0\UDPServerApp.AssemblyInfo.cs
+D:\Work Space\C#\source\repos\UdpServices\UDPServerApp\obj\Debug\net8.0\UDPServerApp.csproj.CoreCompileInputs.cache
+D:\Work Space\C#\source\repos\UdpServices\UDPServerApp\obj\Debug\net8.0\UDPServerApp.dll
+D:\Work Space\C#\source\repos\UdpServices\UDPServerApp\obj\Debug\net8.0\refint\UDPServerApp.dll
+D:\Work Space\C#\source\repos\UdpServices\UDPServerApp\obj\Debug\net8.0\UDPServerApp.pdb
+D:\Work Space\C#\source\repos\UdpServices\UDPServerApp\obj\Debug\net8.0\UDPServerApp.genruntimeconfig.cache
+D:\Work Space\C#\source\repos\UdpServices\UDPServerApp\obj\Debug\net8.0\ref\UDPServerApp.dll

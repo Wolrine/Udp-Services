@@ -1,0 +1,14 @@
+D:\Work Space\C#\source\repos\UdpServices\UDPClientApp\bin\Debug\net8.0\UDPClientApp.exe
+D:\Work Space\C#\source\repos\UdpServices\UDPClientApp\bin\Debug\net8.0\UDPClientApp.deps.json
+D:\Work Space\C#\source\repos\UdpServices\UDPClientApp\bin\Debug\net8.0\UDPClientApp.runtimeconfig.json
+D:\Work Space\C#\source\repos\UdpServices\UDPClientApp\bin\Debug\net8.0\UDPClientApp.dll
+D:\Work Space\C#\source\repos\UdpServices\UDPClientApp\bin\Debug\net8.0\UDPClientApp.pdb
+D:\Work Space\C#\source\repos\UdpServices\UDPClientApp\obj\Debug\net8.0\UDPClientApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work Space\C#\source\repos\UdpServices\UDPClientApp\obj\Debug\net8.0\UDPClientApp.AssemblyInfoInputs.cache
+D:\Work Space\C#\source\repos\UdpServices\UDPClientApp\obj\Debug\net8.0\UDPClientApp.AssemblyInfo.cs
+D:\Work Space\C#\source\repos\UdpServices\UDPClientApp\obj\Debug\net8.0\UDPClientApp.csproj.CoreCompileInputs.cache
+D:\Work Space\C#\source\repos\UdpServices\UDPClientApp\obj\Debug\net8.0\UDPClientApp.dll
+D:\Work Space\C#\source\repos\UdpServices\UDPClientApp\obj\Debug\net8.0\refint\UDPClientApp.dll
+D:\Work Space\C#\source\repos\UdpServices\UDPClientApp\obj\Debug\net8.0\UDPClientApp.pdb
+D:\Work Space\C#\source\repos\UdpServices\UDPClientApp\obj\Debug\net8.0\UDPClientApp.genruntimeconfig.cache
+D:\Work Space\C#\source\repos\UdpServices\UDPClientApp\obj\Debug\net8.0\ref\UDPClientApp.dll
